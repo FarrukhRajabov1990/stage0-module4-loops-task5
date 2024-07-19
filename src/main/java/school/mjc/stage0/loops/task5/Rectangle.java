@@ -9,6 +9,7 @@ public class Rectangle {
                     System.out.println(8);
                 }
             }
+            System.out.println();
         }
     }
 }

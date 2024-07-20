@@ -6,6 +6,8 @@ public class Triangle {
             for (int j = 0; j < cathetusLength; j++) {
                 if (i == j || i == cathetusLength-1 || j == 0) {
                     System.out.print(8);
+                } else {
+                    System.out.print(" ");
                 }
             }
             System.out.println();
